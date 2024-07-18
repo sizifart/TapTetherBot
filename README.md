@@ -1,5 +1,5 @@
 # TapTetherBot
-🖱️ clicker for [https://t.me/taptether_bot](t.me/taptether_bot?start=9V2LAK7)
+🖱️ clicker for [https://t.me/taptether_bot](https://t.me/taptether_bot?start=9V2LAK7)
 
 
 ## Functionality
