@@ -1,0 +1,2 @@
+# TapTetherBot
+TapTetherBot App AutoClicker
